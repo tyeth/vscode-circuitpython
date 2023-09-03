@@ -9,8 +9,8 @@ circuitpython
 circup*
 .env/
 /bindings*
-/stubs
-/boards
+# /stubs
+# /boards
 new.diff
 .DS_Store
 /tmp

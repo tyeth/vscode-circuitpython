@@ -1,0 +1,9 @@
+from __future__ import annotations
+import microcontroller
+"""
+board Adafruit Industries LLC NeoPixel Trinkey M0
+https://circuitpython.org/boards/neopixel_trinkey_m0
+"""
+TOUCH1: microcontroller.Pin = ...
+NEOPIXEL: microcontroller.Pin = ...
+TOUCH2: microcontroller.Pin = ...
